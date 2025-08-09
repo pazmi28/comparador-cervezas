@@ -1,0 +1,1 @@
+console.log("♗ Comparador de Cervezas iniciado...");
